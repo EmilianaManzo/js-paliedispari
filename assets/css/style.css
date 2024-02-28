@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contorno{
+  border:10px solid red;
+  border-radius: 20px;
+  background-color: bisque;
+  width: 400px;
+  height: 500px;
+  padding: 10px;
+  text-align: center;
+}
